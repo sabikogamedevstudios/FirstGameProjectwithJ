@@ -1,0 +1,531 @@
+fileFormatVersion: 2
+guid: d54a42bd8fdbcd345bca761bd6613acd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4320388714000142122
+    second: Flo-Run_0
+  - first:
+      213: 8785605290249893205
+    second: Flo-Run_1
+  - first:
+      213: 8284490337815385073
+    second: Flo-Run_2
+  - first:
+      213: 6628095540449405188
+    second: Flo-Run_3
+  - first:
+      213: 7561666538960663058
+    second: Flo-Run_4
+  - first:
+      213: 1804452997182538422
+    second: Flo-Run_5
+  - first:
+      213: 8149054731271730849
+    second: Flo-Run_6
+  - first:
+      213: -8559528503429905272
+    second: Flo-Run_7
+  - first:
+      213: 906317637964294554
+    second: Flo-Run_8
+  - first:
+      213: -8679697318500122728
+    second: Flo-Run_9
+  - first:
+      213: 5712248264949612280
+    second: Flo-Run_10
+  - first:
+      213: -7008477395886942283
+    second: Flo-Run_11
+  - first:
+      213: 5125342955105595491
+    second: Flo-Run_12
+  - first:
+      213: -605238711465105981
+    second: Flo-Run_13
+  - first:
+      213: 983373656318039208
+    second: Flo-Run_14
+  - first:
+      213: -8513504566828083410
+    second: Flo-Run_15
+  - first:
+      213: -5584990035184890980
+    second: Flo-Run_16
+  - first:
+      213: 2697993396955091877
+    second: Flo-Run_17
+  - first:
+      213: 1206323833981815529
+    second: Flo-Run_18
+  - first:
+      213: 5275881507305319827
+    second: Flo-Run_19
+  - first:
+      213: -7229176343397549889
+    second: Flo-Run_20
+  - first:
+      213: 4946373303408841149
+    second: Flo-Run_21
+  - first:
+      213: -4929086630631919541
+    second: Flo-Run_22
+  - first:
+      213: -2491047339150142219
+    second: Flo-Run_23
+  - first:
+      213: -1025853439416013104
+    second: Flo-Run_24
+  - first:
+      213: 1540150134590659839
+    second: Flo-Run_25
+  - first:
+      213: -8103866545201249719
+    second: Flo-Run_26
+  - first:
+      213: -4902167560129852218
+    second: Flo-Run_27
+  - first:
+      213: -3826445190494331334
+    second: Flo-Run_28
+  - first:
+      213: 2352924484875976266
+    second: Flo-Run_29
+  - first:
+      213: 8750910016091322022
+    second: Flo-Run_30
+  - first:
+      213: 7822761432176799713
+    second: Flo-Run_31
+  - first:
+      213: 7385012439998585216
+    second: Flo-Run_32
+  - first:
+      213: -394361874856517039
+    second: Flo-Run_33
+  - first:
+      213: -7669643563359877052
+    second: Flo-Run_34
+  - first:
+      213: 8501098117875904930
+    second: Flo-Run_35
+  - first:
+      213: -5115611938091572791
+    second: Flo-Run_36
+  - first:
+      213: -5601006880104305347
+    second: Flo-Run_37
+  - first:
+      213: -6197168898536515583
+    second: Flo-Run_38
+  - first:
+      213: 7336352393903885246
+    second: Flo-Run_39
+  - first:
+      213: 6221046600190082019
+    second: Flo-Run_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flo-Run_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2fc59d15aa15fb30800000000000000
+      internalID: 4320388714000142122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flo-Run_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555332e967dbce970800000000000000
+      internalID: 8785605290249893205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flo-Run_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f354a2b11c68f270800000000000000
+      internalID: 8284490337815385073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flo-Run_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40966d1e6c9bbfb50800000000000000
+      internalID: 6628095540449405188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flo-Run_4
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21235bc57af60f860800000000000000
+      internalID: 7561666538960663058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flo-Run_5
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b244f6c074ba0910800000000000000
+      internalID: 1804452997182538422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flo-Run_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6faa04a12471170800000000000000
+      internalID: 8149054731271730849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flo-Run_7
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884ca3c2d22763980800000000000000
+      internalID: -8559528503429905272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flo-Run_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9968800713e39c00800000000000000
+      internalID: 906317637964294554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flo-Run_9
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fb3ec96458b8780800000000000000
+      internalID: -8679697318500122728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flo-Run_10
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8feb92d388bf54f40800000000000000
+      internalID: 5712248264949612280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flo-Run_11
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7ddc1e0f2ecbe90800000000000000
+      internalID: -7008477395886942283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c52ec64ff18826043a423368197fb2b5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":512.0,"y":512.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Flo-Run_0: 4320388714000142122
+      Flo-Run_1: 8785605290249893205
+      Flo-Run_10: 5712248264949612280
+      Flo-Run_11: -7008477395886942283
+      Flo-Run_2: 8284490337815385073
+      Flo-Run_3: 6628095540449405188
+      Flo-Run_4: 7561666538960663058
+      Flo-Run_5: 1804452997182538422
+      Flo-Run_6: 8149054731271730849
+      Flo-Run_7: -8559528503429905272
+      Flo-Run_8: 906317637964294554
+      Flo-Run_9: -8679697318500122728
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
