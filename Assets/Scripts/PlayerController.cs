@@ -1,10 +1,12 @@
 using UnityEngine;
+using System.Collections.Generic;
+using UnityEngine.Events;
 
 public class PlayerMovement : MonoBehaviour
 {
     private float horizontal;
-    private float speed = 8f;
-    private float jumpingPower = 16f;
+    public float speed = 40f;
+    public float jumpingPower = 8f;
     private bool isFacingRight = true;
     public Animator animator;
 
@@ -12,43 +14,55 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private Transform groundCheck;
     [SerializeField] private LayerMask groundLayer;
 
+    public UnityEvent OnLandEvent;
+
+    private bool wasGrounded;
+
     void Update()
     {
-        horizontal = Input.GetAxisRaw("Horizontal");
-
+        horizontal = Input.GetAxisRaw("Horizontal") * speed;
         animator.SetFloat("IsRunning", Mathf.Abs(horizontal));
 
         if (Input.GetButtonDown("Jump") && IsGrounded())
         {
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpingPower);
+            animator.SetBool("IsJumping", true);
+            rb.AddForce(new Vector2(0f, jumpingPower), ForceMode2D.Impulse);
         }
 
-        if (Input.GetButtonUp("Jump") && rb.linearVelocity.y > 0f)
+        // Landing detection
+        if (IsGrounded() && !wasGrounded)
         {
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, rb.linearVelocity.y * 0.5f);
+            animator.SetBool("IsJumping", false);
         }
+
+        wasGrounded = IsGrounded();
 
         Flip();
     }
 
     private void FixedUpdate()
     {
-        rb.linearVelocity = new Vector2(horizontal * speed, rb.linearVelocity.y);
+        // Apply movement here
+        rb.linearVelocity = new Vector2(horizontal, rb.linearVelocity.y);
     }
 
-    private bool IsGrounded()
-    {
-        return Physics2D.OverlapCircle(groundCheck.position, 0.2f, groundLayer);
-    }
-
-    private void Flip()
-    {
-        if (isFacingRight && horizontal < 0f || !isFacingRight && horizontal > 0f)
+        private bool IsGrounded()
         {
-            isFacingRight = !isFacingRight;
-            Vector3 localScale = transform.localScale;
-            localScale.x *= -1f;
-            transform.localScale = localScale;
+            return Physics2D.OverlapCircle(groundCheck.position, 0.2f, groundLayer);
         }
-    }
+
+        private void Flip()
+        {
+            if (isFacingRight && horizontal < 0f || !isFacingRight && horizontal > 0f)
+            {
+                isFacingRight = !isFacingRight;
+                Vector3 localScale = transform.localScale;
+                localScale.x *= -1f;
+                transform.localScale = localScale;
+            }
+        }
+
+        public void IsLanding() {
+            animator.SetBool("IsJumping", false);
+        }
 }

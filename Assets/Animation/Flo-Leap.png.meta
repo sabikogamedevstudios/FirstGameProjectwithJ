@@ -1,0 +1,1586 @@
+fileFormatVersion: 2
+guid: e7970f8835373c54a8ecc8f496b01aad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6834434475775269603
+    second: Flo-Leap_0
+  - first:
+      213: 8098796373572766835
+    second: Flo-Leap_1
+  - first:
+      213: -974070856754641422
+    second: Flo-Leap_2
+  - first:
+      213: 5069910312470936563
+    second: Flo-Leap_3
+  - first:
+      213: -4992936027461796238
+    second: Flo-Leap_4
+  - first:
+      213: 8607669392382086657
+    second: Flo-Leap_5
+  - first:
+      213: 8022991413923463485
+    second: Flo-Leap_6
+  - first:
+      213: 7556216369491907422
+    second: Flo-Leap_7
+  - first:
+      213: -6684458851725223909
+    second: Flo-Leap_8
+  - first:
+      213: -201654634517984529
+    second: Flo-Leap_9
+  - first:
+      213: -7712138989941400947
+    second: Flo-Leap_10
+  - first:
+      213: -8663724152434614161
+    second: Flo-Leap_11
+  - first:
+      213: 1730174291122263429
+    second: Flo-Leap_12
+  - first:
+      213: -399853611064972388
+    second: Flo-Leap_13
+  - first:
+      213: 7238451969082310536
+    second: Flo-Leap_14
+  - first:
+      213: 5064040780714119435
+    second: Flo-Leap_15
+  - first:
+      213: 2719039133786308503
+    second: Flo-Leap_16
+  - first:
+      213: -2400196881014978336
+    second: Flo-Leap_17
+  - first:
+      213: -5687028185219519665
+    second: Flo-Leap_18
+  - first:
+      213: -6537669089598706822
+    second: Flo-Leap_19
+  - first:
+      213: -8423514252470452583
+    second: Flo-Leap_20
+  - first:
+      213: 5077529615061108637
+    second: Flo-Leap_21
+  - first:
+      213: 7215023847355752655
+    second: Flo-Leap_22
+  - first:
+      213: 6749817779667779653
+    second: Flo-Leap_23
+  - first:
+      213: 8520602956890133474
+    second: Flo-Leap_24
+  - first:
+      213: -3046873875067510509
+    second: Flo-Leap_25
+  - first:
+      213: 4066921605056836378
+    second: Flo-Leap_26
+  - first:
+      213: 3475409784296468878
+    second: Flo-Leap_27
+  - first:
+      213: -8615275837438399196
+    second: Flo-Leap_28
+  - first:
+      213: -44449869119768757
+    second: Flo-Leap_29
+  - first:
+      213: 5107579427796598976
+    second: Flo-Leap_30
+  - first:
+      213: 6067183629997005353
+    second: Flo-Leap_31
+  - first:
+      213: 8961754176898941788
+    second: Flo-Leap_32
+  - first:
+      213: 1309108631959760593
+    second: Flo-Leap_33
+  - first:
+      213: 2309588372179085538
+    second: Flo-Leap_34
+  - first:
+      213: 6653651371234373828
+    second: Flo-Leap_35
+  - first:
+      213: -8324897251336480661
+    second: Flo-Leap_36
+  - first:
+      213: -3496175299377530426
+    second: Flo-Leap_37
+  - first:
+      213: 7089297389198845044
+    second: Flo-Leap_38
+  - first:
+      213: -6087926090939765116
+    second: Flo-Leap_39
+  - first:
+      213: 1258409407777144733
+    second: Flo-Leap_40
+  - first:
+      213: -2042330413035312286
+    second: Flo-Leap_41
+  - first:
+      213: 6006381377045792999
+    second: Flo-Leap_42
+  - first:
+      213: -8578678048216069807
+    second: Flo-Leap_43
+  - first:
+      213: 3547827226253820982
+    second: Flo-Leap_44
+  - first:
+      213: 5211960796437758806
+    second: Flo-Leap_45
+  - first:
+      213: -8627001256387740287
+    second: Flo-Leap_46
+  - first:
+      213: -4427763989151256098
+    second: Flo-Leap_47
+  - first:
+      213: 654008017666373932
+    second: Flo-Leap_48
+  - first:
+      213: -1427689625759125813
+    second: Flo-Leap_49
+  - first:
+      213: -1267785542920564268
+    second: Flo-Leap_50
+  - first:
+      213: 9002785008856442575
+    second: Flo-Leap_51
+  - first:
+      213: -1196412699815604455
+    second: Flo-Leap_52
+  - first:
+      213: -3163748098831285736
+    second: Flo-Leap_53
+  - first:
+      213: -1188079068704975660
+    second: Flo-Leap_54
+  - first:
+      213: -7652427925508928019
+    second: Flo-Leap_55
+  - first:
+      213: 3800418966462369630
+    second: Flo-Leap_56
+  - first:
+      213: 6439006584524288061
+    second: Flo-Leap_57
+  - first:
+      213: 8201556350118845988
+    second: Flo-Leap_58
+  - first:
+      213: -3381564539150663178
+    second: Flo-Leap_59
+  - first:
+      213: -5528332165770435474
+    second: Flo-Leap_60
+  - first:
+      213: -1473688239070433782
+    second: Flo-Leap_61
+  - first:
+      213: -1868417670641454286
+    second: Flo-Leap_62
+  - first:
+      213: 7607157520414988943
+    second: Flo-Leap_63
+  - first:
+      213: 5860410878405325337
+    second: Flo-Leap_64
+  - first:
+      213: -4227250270987782514
+    second: Flo-Leap_65
+  - first:
+      213: 3194008143000116122
+    second: Flo-Leap_66
+  - first:
+      213: -3291155491044866254
+    second: Flo-Leap_67
+  - first:
+      213: 3329334362944536635
+    second: Flo-Leap_68
+  - first:
+      213: 2073354547224071611
+    second: Flo-Leap_69
+  - first:
+      213: -4452123090129854091
+    second: Flo-Leap_70
+  - first:
+      213: -1606949138698499190
+    second: Flo-Leap_71
+  - first:
+      213: 8308164180755323669
+    second: Flo-Leap_72
+  - first:
+      213: 3181857456711875491
+    second: Flo-Leap_73
+  - first:
+      213: -8938911218078250496
+    second: Flo-Leap_74
+  - first:
+      213: 6070035364308788657
+    second: Flo-Leap_75
+  - first:
+      213: 4567428698745201299
+    second: Flo-Leap_76
+  - first:
+      213: 1742916350407673535
+    second: Flo-Leap_77
+  - first:
+      213: -3247333211560483621
+    second: Flo-Leap_78
+  - first:
+      213: 2119046369750389008
+    second: Flo-Leap_79
+  - first:
+      213: 184735373418408403
+    second: Flo-Leap_80
+  - first:
+      213: -2454319617179506557
+    second: Flo-Leap_81
+  - first:
+      213: 4338842069533151685
+    second: Flo-Leap_82
+  - first:
+      213: -5384536585559887428
+    second: Flo-Leap_83
+  - first:
+      213: -65582047333991251
+    second: Flo-Leap_84
+  - first:
+      213: 7045513931665181566
+    second: Flo-Leap_85
+  - first:
+      213: 7404794663387264317
+    second: Flo-Leap_86
+  - first:
+      213: 6652963550608581508
+    second: Flo-Leap_87
+  - first:
+      213: -1728524291674503521
+    second: Flo-Leap_88
+  - first:
+      213: 629723727040344577
+    second: Flo-Leap_89
+  - first:
+      213: 1163466189270081401
+    second: Flo-Leap_90
+  - first:
+      213: 3605679140099035607
+    second: Flo-Leap_91
+  - first:
+      213: 8993109668272507312
+    second: Flo-Leap_92
+  - first:
+      213: -9058761547111664272
+    second: Flo-Leap_93
+  - first:
+      213: 190104668766539038
+    second: Flo-Leap_94
+  - first:
+      213: -1158751063007720220
+    second: Flo-Leap_95
+  - first:
+      213: -1997245512020855901
+    second: Flo-Leap_96
+  - first:
+      213: -7524059734399743976
+    second: Flo-Leap_97
+  - first:
+      213: 8154478126208359481
+    second: Flo-Leap_98
+  - first:
+      213: -36902818381978118
+    second: Flo-Leap_99
+  - first:
+      213: 3305375716389688386
+    second: Flo-Leap_100
+  - first:
+      213: -840044199455642235
+    second: Flo-Leap_101
+  - first:
+      213: 3171454650619197837
+    second: Flo-Leap_102
+  - first:
+      213: 869322339699370200
+    second: Flo-Leap_103
+  - first:
+      213: 408209348829834473
+    second: Flo-Leap_104
+  - first:
+      213: 2220656222515870570
+    second: Flo-Leap_105
+  - first:
+      213: -5101197637447928581
+    second: Flo-Leap_106
+  - first:
+      213: 2009768868247532135
+    second: Flo-Leap_107
+  - first:
+      213: -692874317334620817
+    second: Flo-Leap_108
+  - first:
+      213: -2654383533521336097
+    second: Flo-Leap_109
+  - first:
+      213: 7099492290980634723
+    second: Flo-Leap_110
+  - first:
+      213: 7250471421250004878
+    second: Flo-Leap_111
+  - first:
+      213: -6219785321350252965
+    second: Flo-Leap_112
+  - first:
+      213: 3726771578798811425
+    second: Flo-Leap_113
+  - first:
+      213: 2781329611816652087
+    second: Flo-Leap_114
+  - first:
+      213: -347273620388873332
+    second: Flo-Leap_115
+  - first:
+      213: 7055313734325936672
+    second: Flo-Leap_116
+  - first:
+      213: -9206254410928912522
+    second: Flo-Leap_117
+  - first:
+      213: -8098676548803015638
+    second: Flo-Leap_118
+  - first:
+      213: 323070467348248475
+    second: Flo-Leap_119
+  - first:
+      213: -697623561963769395
+    second: Flo-Leap_120
+  - first:
+      213: -6304710826659163420
+    second: Flo-Leap_121
+  - first:
+      213: -2408454522109361674
+    second: Flo-Leap_122
+  - first:
+      213: -9213636583488801449
+    second: Flo-Leap_123
+  - first:
+      213: -1809393777200492590
+    second: Flo-Leap_124
+  - first:
+      213: -8280450482938357038
+    second: Flo-Leap_125
+  - first:
+      213: 7353601222860850553
+    second: Flo-Leap_126
+  - first:
+      213: 2409546621732229556
+    second: Flo-Leap_127
+  - first:
+      213: 8615339832239570534
+    second: Flo-Leap_128
+  - first:
+      213: -4797212535312153681
+    second: Flo-Leap_129
+  - first:
+      213: 6136922112344237734
+    second: Flo-Leap_130
+  - first:
+      213: 1568809774486243091
+    second: Flo-Leap_131
+  - first:
+      213: 1489175762207543072
+    second: Flo-Leap_132
+  - first:
+      213: -2120532770430820130
+    second: Flo-Leap_133
+  - first:
+      213: -6395134335434614360
+    second: Flo-Leap_134
+  - first:
+      213: -8393995559805244083
+    second: Flo-Leap_135
+  - first:
+      213: 4391028815437752144
+    second: Flo-Leap_136
+  - first:
+      213: -3063472193023691428
+    second: Flo-Leap_137
+  - first:
+      213: -7112457449893484729
+    second: Flo-Leap_138
+  - first:
+      213: 388769682868208198
+    second: Flo-Leap_139
+  - first:
+      213: -6728215229461746058
+    second: Flo-Leap_140
+  - first:
+      213: 2438738790303421062
+    second: Flo-Leap_141
+  - first:
+      213: 3250674274877183519
+    second: Flo-Leap_142
+  - first:
+      213: 4078322768521786173
+    second: Flo-Leap_143
+  - first:
+      213: -389176461304052810
+    second: Flo-Leap_144
+  - first:
+      213: 1649094450998527413
+    second: Flo-Leap_145
+  - first:
+      213: 7779134679504957701
+    second: Flo-Leap_146
+  - first:
+      213: -5631080723073615617
+    second: Flo-Leap_147
+  - first:
+      213: -7062340843126751588
+    second: Flo-Leap_148
+  - first:
+      213: 8547792178364581336
+    second: Flo-Leap_149
+  - first:
+      213: -5621148321906311663
+    second: Flo-Leap_150
+  - first:
+      213: -2237355478807120860
+    second: Flo-Leap_151
+  - first:
+      213: 1241272021459468993
+    second: Flo-Leap_152
+  - first:
+      213: -1469013080259066785
+    second: Flo-Leap_153
+  - first:
+      213: -4980293471599287460
+    second: Flo-Leap_154
+  - first:
+      213: 6146643282087401451
+    second: Flo-Leap_155
+  - first:
+      213: 4261950730608041138
+    second: Flo-Leap_156
+  - first:
+      213: -6002618184993287648
+    second: Flo-Leap_157
+  - first:
+      213: -3991058880971111792
+    second: Flo-Leap_158
+  - first:
+      213: 2201782163103500287
+    second: Flo-Leap_159
+  - first:
+      213: -955135509824611414
+    second: Flo-Leap_160
+  - first:
+      213: -4645681949693453087
+    second: Flo-Leap_161
+  - first:
+      213: -7069539182832479399
+    second: Flo-Leap_162
+  - first:
+      213: -5813849030823996149
+    second: Flo-Leap_163
+  - first:
+      213: 7445325212265897113
+    second: Flo-Leap_164
+  - first:
+      213: 7058254377820335287
+    second: Flo-Leap_165
+  - first:
+      213: -494043798988613509
+    second: Flo-Leap_166
+  - first:
+      213: 8893477166356399133
+    second: Flo-Leap_167
+  - first:
+      213: 282537058470731377
+    second: Flo-Leap_168
+  - first:
+      213: 2766642465312312089
+    second: Flo-Leap_169
+  - first:
+      213: 7861609044089603432
+    second: Flo-Leap_170
+  - first:
+      213: -5400469585059218646
+    second: Flo-Leap_171
+  - first:
+      213: -280689082293457858
+    second: Flo-Leap_172
+  - first:
+      213: -1526604371660344147
+    second: Flo-Leap_173
+  - first:
+      213: 6859591191754975026
+    second: Flo-Leap_174
+  - first:
+      213: -8613785351143196734
+    second: Flo-Leap_175
+  - first:
+      213: -6327228107825094277
+    second: Flo-Leap_176
+  - first:
+      213: 2197306075732918503
+    second: Flo-Leap_177
+  - first:
+      213: 3285577533756657233
+    second: Flo-Leap_178
+  - first:
+      213: 7699914061225049612
+    second: Flo-Leap_179
+  - first:
+      213: -5344843742362856973
+    second: Flo-Leap_180
+  - first:
+      213: -9008446166748273988
+    second: Flo-Leap_181
+  - first:
+      213: 4773612613856923701
+    second: Flo-Leap_182
+  - first:
+      213: -1111293830708728672
+    second: Flo-Leap_183
+  - first:
+      213: 4480951689649870708
+    second: Flo-Leap_184
+  - first:
+      213: 6156403895217286169
+    second: Flo-Leap_185
+  - first:
+      213: -4995425357617733100
+    second: Flo-Leap_186
+  - first:
+      213: 3898847673948891897
+    second: Flo-Leap_187
+  - first:
+      213: -8615091076482803070
+    second: Flo-Leap_188
+  - first:
+      213: 8690245157907659924
+    second: Flo-Leap_189
+  - first:
+      213: 7866027286862719078
+    second: Flo-Leap_190
+  - first:
+      213: 8589443679823340105
+    second: Flo-Leap_191
+  - first:
+      213: -2852458195314784695
+    second: Flo-Leap_192
+  - first:
+      213: 6564790986529227068
+    second: Flo-Leap_193
+  - first:
+      213: 3732152229886867522
+    second: Flo-Leap_194
+  - first:
+      213: 7236350279476241235
+    second: Flo-Leap_195
+  - first:
+      213: 1331172735646503465
+    second: Flo-Leap_196
+  - first:
+      213: 5378685386497312649
+    second: Flo-Leap_197
+  - first:
+      213: 1351172293594936359
+    second: Flo-Leap_198
+  - first:
+      213: -4935192623081503423
+    second: Flo-Leap_199
+  - first:
+      213: -870875739256018675
+    second: Flo-Leap_200
+  - first:
+      213: 1881818806564525416
+    second: Flo-Leap_201
+  - first:
+      213: -4578750161123039949
+    second: Flo-Leap_202
+  - first:
+      213: -6659267192441619837
+    second: Flo-Leap_203
+  - first:
+      213: -8046057308398342833
+    second: Flo-Leap_204
+  - first:
+      213: 7233675562567030194
+    second: Flo-Leap_205
+  - first:
+      213: -6585902083851604699
+    second: Flo-Leap_206
+  - first:
+      213: -4247930591961985948
+    second: Flo-Leap_207
+  - first:
+      213: 7054744843569995518
+    second: Flo-Leap_208
+  - first:
+      213: 7453933529155572933
+    second: Flo-Leap_209
+  - first:
+      213: -2048612109096158619
+    second: Flo-Leap_210
+  - first:
+      213: 1353594773347898230
+    second: Flo-Leap_211
+  - first:
+      213: 7860479328098192520
+    second: Flo-Leap_212
+  - first:
+      213: -6288309146434315311
+    second: Flo-Leap_213
+  - first:
+      213: 6295977547702777484
+    second: Flo-Leap_214
+  - first:
+      213: 2608518120350411407
+    second: Flo-Leap_215
+  - first:
+      213: -5880134101776864930
+    second: Flo-Leap_216
+  - first:
+      213: -1148692274484728462
+    second: Flo-Leap_217
+  - first:
+      213: -300613654097073779
+    second: Flo-Leap_218
+  - first:
+      213: -8701977641480495158
+    second: Flo-Leap_219
+  - first:
+      213: 7631013189296070737
+    second: Flo-Leap_220
+  - first:
+      213: -5475734129114924608
+    second: Flo-Leap_221
+  - first:
+      213: -4815659919671308799
+    second: Flo-Leap_222
+  - first:
+      213: 5438338223330411560
+    second: Flo-Leap_223
+  - first:
+      213: 2666538055384495928
+    second: Flo-Leap_224
+  - first:
+      213: 8883611272071740241
+    second: Flo-Leap_225
+  - first:
+      213: 6570481013010374365
+    second: Flo-Leap_226
+  - first:
+      213: -124761836642187381
+    second: Flo-Leap_227
+  - first:
+      213: -372942865027150962
+    second: Flo-Leap_228
+  - first:
+      213: 6166493048807946475
+    second: Flo-Leap_229
+  - first:
+      213: 3512584991352858078
+    second: Flo-Leap_230
+  - first:
+      213: -8334502154243472143
+    second: Flo-Leap_231
+  - first:
+      213: 966488366484603973
+    second: Flo-Leap_232
+  - first:
+      213: 1894138140001870988
+    second: Flo-Leap_233
+  - first:
+      213: -4359475639531492133
+    second: Flo-Leap_234
+  - first:
+      213: 6009480538099398867
+    second: Flo-Leap_235
+  - first:
+      213: 4595063529546754251
+    second: Flo-Leap_236
+  - first:
+      213: -5450085062367530206
+    second: Flo-Leap_237
+  - first:
+      213: -2402136197236465089
+    second: Flo-Leap_238
+  - first:
+      213: 6015787403966932238
+    second: Flo-Leap_239
+  - first:
+      213: 61895276633712264
+    second: Flo-Leap_240
+  - first:
+      213: 5827890259571790992
+    second: Flo-Leap_241
+  - first:
+      213: 4504953564066044611
+    second: Flo-Leap_242
+  - first:
+      213: 2072663040123908166
+    second: Flo-Leap_243
+  - first:
+      213: -8877452704680164541
+    second: Flo-Leap_244
+  - first:
+      213: -5596396511556767003
+    second: Flo-Leap_245
+  - first:
+      213: -5396724702869293797
+    second: Flo-Leap_246
+  - first:
+      213: -8134366283139370933
+    second: Flo-Leap_247
+  - first:
+      213: -7345713436838652183
+    second: Flo-Leap_248
+  - first:
+      213: -2652033107062825785
+    second: Flo-Leap_249
+  - first:
+      213: -8378321061882969237
+    second: Flo-Leap_250
+  - first:
+      213: -4682430209308139721
+    second: Flo-Leap_251
+  - first:
+      213: -2918786636082614949
+    second: Flo-Leap_252
+  - first:
+      213: 5856534491256066447
+    second: Flo-Leap_253
+  - first:
+      213: 825633749838951600
+    second: Flo-Leap_254
+  - first:
+      213: -544412300931570052
+    second: Flo-Leap_255
+  - first:
+      213: 380359951831729291
+    second: Flo-Leap_256
+  - first:
+      213: -1058310146369803485
+    second: Flo-Leap_257
+  - first:
+      213: 4769729844878936662
+    second: Flo-Leap_258
+  - first:
+      213: -4584300374643409478
+    second: Flo-Leap_259
+  - first:
+      213: -4868556908112278456
+    second: Flo-Leap_260
+  - first:
+      213: 740042662916544698
+    second: Flo-Leap_261
+  - first:
+      213: -7266383017321872284
+    second: Flo-Leap_262
+  - first:
+      213: 621110680754013798
+    second: Flo-Leap_263
+  - first:
+      213: -1342326016044970549
+    second: Flo-Leap_264
+  - first:
+      213: 2097315650108204096
+    second: Flo-Leap_265
+  - first:
+      213: -6608119726706858513
+    second: Flo-Leap_266
+  - first:
+      213: 5970531930116744958
+    second: Flo-Leap_267
+  - first:
+      213: -2910652139645314219
+    second: Flo-Leap_268
+  - first:
+      213: 27674452695241350
+    second: Flo-Leap_269
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flo-Leap_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea944102f9c8de50800000000000000
+      internalID: 6834434475775269603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flo-Leap_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37cc60b7464b46070800000000000000
+      internalID: 8098796373572766835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flo-Leap_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5441577b76b72f0800000000000000
+      internalID: -974070856754641422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flo-Leap_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb7be15190fb5640800000000000000
+      internalID: 5069910312470936563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flo-Leap_4
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27eb3e0032785bab0800000000000000
+      internalID: -4992936027461796238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flo-Leap_5
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ecfecf4b5947770800000000000000
+      internalID: 8607669392382086657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flo-Leap_6
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31caeeee24675f60800000000000000
+      internalID: 8022991413923463485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flo-Leap_7
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e539e85e0c21dd860800000000000000
+      internalID: 7556216369491907422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flo-Leap_8
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18d33317180c33a0800000000000000
+      internalID: -6684458851725223909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flo-Leap_9
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea8e36ad24933df0800000000000000
+      internalID: -201654634517984529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flo-Leap_10
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a5a16037af8f490800000000000000
+      internalID: -7712138989941400947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flo-Leap_11
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60a92629c444c780800000000000000
+      internalID: -8663724152434614161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flo-Leap_12
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5851bd5d950d20810800000000000000
+      internalID: 1730174291122263429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flo-Leap_13
+      rect:
+        serializedVersion: 2
+        x: 6656
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ba05e524f637af0800000000000000
+      internalID: -399853611064972388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flo-Leap_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fb0e407b5247460800000000000000
+      internalID: 7238451969082310536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flo-Leap_15
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b019e867246174640800000000000000
+      internalID: 5064040780714119435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flo-Leap_16
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ff7b3afa7fbb520800000000000000
+      internalID: 2719039133786308503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flo-Leap_17
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e80a1c47a9c0bed0800000000000000
+      internalID: -2400196881014978336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flo-Leap_18
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b2b582ffd9311b0800000000000000
+      internalID: -5687028185219519665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flo-Leap_19
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7bea6fd9988545a0800000000000000
+      internalID: -6537669089598706822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flo-Leap_20
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99efe05ca6aa91b80800000000000000
+      internalID: -8423514252470452583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flo-Leap_21
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d974e327842077640800000000000000
+      internalID: 5077529615061108637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flo-Leap_22
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0ac9b56f9e02460800000000000000
+      internalID: 7215023847355752655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flo-Leap_23
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540c6bf228b2cad50800000000000000
+      internalID: 6749817779667779653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flo-Leap_24
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e35495ce334f3670800000000000000
+      internalID: 8520602956890133474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flo-Leap_25
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311ee298a5457b5d0800000000000000
+      internalID: -3046873875067510509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flo-Leap_26
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1336cef6ab907830800000000000000
+      internalID: 4066921605056836378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flo-Leap_27
+      rect:
+        serializedVersion: 2
+        x: 6656
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8178e909c22b3030800000000000000
+      internalID: 3475409784296468878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4bfb409c54cda2d4982ca1bba643e670
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":512.0,"y":512.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Flo-Leap_0: 6834434475775269603
+      Flo-Leap_1: 8098796373572766835
+      Flo-Leap_10: -7712138989941400947
+      Flo-Leap_11: -8663724152434614161
+      Flo-Leap_12: 1730174291122263429
+      Flo-Leap_13: -399853611064972388
+      Flo-Leap_14: 7238451969082310536
+      Flo-Leap_15: 5064040780714119435
+      Flo-Leap_16: 2719039133786308503
+      Flo-Leap_17: -2400196881014978336
+      Flo-Leap_18: -5687028185219519665
+      Flo-Leap_19: -6537669089598706822
+      Flo-Leap_2: -974070856754641422
+      Flo-Leap_20: -8423514252470452583
+      Flo-Leap_21: 5077529615061108637
+      Flo-Leap_22: 7215023847355752655
+      Flo-Leap_23: 6749817779667779653
+      Flo-Leap_24: 8520602956890133474
+      Flo-Leap_25: -3046873875067510509
+      Flo-Leap_26: 4066921605056836378
+      Flo-Leap_27: 3475409784296468878
+      Flo-Leap_3: 5069910312470936563
+      Flo-Leap_4: -4992936027461796238
+      Flo-Leap_5: 8607669392382086657
+      Flo-Leap_6: 8022991413923463485
+      Flo-Leap_7: 7556216369491907422
+      Flo-Leap_8: -6684458851725223909
+      Flo-Leap_9: -201654634517984529
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
